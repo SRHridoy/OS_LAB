@@ -1,0 +1,5 @@
+Lab Topic : Code
+1. CPU scheduling algorithms (FCFS, SJF: preemptive + non-preemptive, Round Robin, Priority) 
+2. Bankers Algorithm
+3. First fit, Best fit, Worst Fit
+4. Page Replacement( FIFO, Optimal, LRU, MRU)
