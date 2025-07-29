@@ -1,1 +1,0 @@
-{"name":"Local: page replacement algo fifo","url":"d:\\New Desktop\\3-II\\Nitu Maa'm\\Lab\\page replacement algo fifo.c","tests":[{"id":1727117715892,"input":"3\n15\n7 0 1 2 0 3 0 4 2 3 0 3 1 2 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\New Desktop\\3-II\\Nitu Maa'm\\Lab\\page replacement algo fifo.c","group":"local","local":true}
