@@ -85,3 +85,25 @@ int main() {
 
     return 0;
 }
+/*
+
+Enter number of processes: 3
+Enter arrival times:
+0 1 2
+Enter burst times:
+4 3 2
+
+
+
+PID     AT      BT      CT      TAT     WT
+1       0       4       4       4       0
+2       1       3       9       8       5
+3       2       2       6       4       2
+
+Average Turnaround Time: 5.33333
+Average Waiting Time: 2.33333
+
+
+
+
+*/

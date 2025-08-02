@@ -61,3 +61,18 @@ int main() {
 
     return 0;
 }
+/*
+Enter the number of processes: 3
+Enter arrival times: 0 1 2
+Enter burst times: 4 3 2
+
+
+PID    AT    BT    CT    TAT    WT
+1      0     4     4     4      0
+2      1     3     7     6      3
+3      2     2     9     7      5
+
+Average TAT: 5.66667
+Average WT: 2.66667
+
+*/

@@ -52,3 +52,19 @@ int main(){
 
 
 }
+
+/*
+Input:
+Enter the number of Holes available: 3
+Enter the Hole Sizes: 500 1000 1500
+Enter process size: 400
+
+
+Output: 
+First Fit: 500k
+Best Fit: 500k
+Worst Fit: 1500k
+
+
+
+*/

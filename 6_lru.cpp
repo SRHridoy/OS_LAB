@@ -53,3 +53,9 @@ int main(){
     cout<<"Hit ratio: "<<hit_ratio<<endl;
     cout<<"Miss ratio: "<<miss_ratio<<endl;
 }
+
+/*
+Enter number of frames: 3
+Enter page reference string (end with -1): 7 0 1 2 0 3 0 4 2 3 0 3 -1
+
+*/
